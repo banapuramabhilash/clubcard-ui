@@ -1,0 +1,7 @@
+{
+  "name": "clubcard-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
